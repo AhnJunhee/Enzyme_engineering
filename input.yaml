@@ -14,9 +14,9 @@ sequences:
 # 4JGG
 # QTLLVVGDSISAALGLDTSQGWVALLQKRLADEGYDYRVVNASISGDTSAGGLARLPALLAEEKPALVVIELGGNDGLRGMAPAQLQQNLASMAQKARAEGAKVLLLGIQLPPNYGPRYIEAFSRVYGAVAAQEKTALVPFFLEGVGGVQGMMQADGIHPALAAQPRLLENVWPTLKPLL
   # 2. 리간드 서열
-  #- ligand:
-      #id: B              # 기질(리간드)은 체인 B로 할당
-      #smiles: "O=C(O)c1ccc(cc1)C(=O)OCCOC(=O)c2ccc(cc2)C(=O)OCCOC(=O)c3ccc(cc3)C(=O)OCCO"
+  - ligand:
+      id: B              # 기질(리간드)은 체인 B로 할당
+      smiles: "O=C(O)c1ccc(cc1)C(=O)OCCOC(=O)c2ccc(cc2)C(=O)OCCOC(=O)c3ccc(cc3)C(=O)OCCO"
       #  MHET 
       #  MONOMER O=C(O)c1ccc(cc1)C(=O)OCCO
       #  DIMER O=C(O)c1ccc(cc1)C(=O)OCCOC(=O)c2ccc(cc2)C(=O)OCCO
